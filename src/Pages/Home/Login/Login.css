@@ -1,0 +1,17 @@
+.logInForm {
+
+    display: flex;
+    justify-content: center;
+    margin-top: 100px;
+}
+
+.logInForm .inputField input {
+    display: block;
+    padding: 12px 12px;
+    margin-bottom: 15px;
+    border: none;
+    border-radius: 5px;
+    width: 400px;
+    background-color: #f2eeee;
+    box-shadow: 0px 5px #cecbcb;
+}
